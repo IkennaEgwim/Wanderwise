@@ -32,11 +32,23 @@ nav {
 .nav-link {
     color: black
 }
-
+/*placeholder---rmove when start page--*/
 .image {
     height: 700px;
 }
+/*main-----*/
 
+h2 {
+
+    padding-top:100px;
+    padding-bottom:5px;
+    font-family: "Oswald",sans-serif;
+}
+ 
+
+
+
+/*footer------*/
 footer {
     background-color: #cc6d2e;
     width: 100%;
