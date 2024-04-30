@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #cc6d2e;
+    color: black;
+}
+
+
+nav a {
+    color: black;
+    font-family: "Oswald", sans-serif ;
+    font-size: 20px;
+
+}
+
+nav {
+    color: black;
+}
+
+
+.navbar-toggler {
+
+    border: none;
+}
+
+.nav-link {
+    color: black
+}
+
+.image {
+    height: 700px;
+}
+
+footer {
+    background-color: #cc6d2e;
+    width: 100%;
+}
+
+footer ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    margin-top: 10px;
+
+}
+
+footer i {
+    color: black;
+    font-size: 20px;
+}
