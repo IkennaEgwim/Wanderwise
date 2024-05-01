@@ -9,6 +9,7 @@
 .navbar {
     background-color: #cc6d2e;
     color: black;
+    font-size: x-large;
 }
 
 
@@ -17,6 +18,9 @@ nav a {
     font-family: "Oswald", sans-serif;
     font-size: 20px;
 
+}
+.navbar-brand{
+    font-size: xx-large;
 }
 
 nav {
@@ -33,12 +37,11 @@ nav {
     color: black
 }
 
-
-/*placeholder---rmove when start page--*/
-.image {
-    height: 700px;
+.hero {
+    padding-bottom: 20px;
 }
-/*main-----*/
+
+
 
 h2 {
 
@@ -48,6 +51,11 @@ h2 {
 }
 h3{
     font-family: "Oswald",sans-serif;
+}
+
+   .about-birmingham { 
+    font-family: "Exo", sans-serif;
+    font-size: 20px;
 }
 
  
@@ -77,8 +85,8 @@ margin-top:200px;
 padding-right:50px;
 height:200px;
 width:400px;
-
-
+color: aliceblue;
+font-size: 50px;
     
 }
 
@@ -96,6 +104,11 @@ footer ul {
     justify-content: space-between;
     margin-top: 10px;
     padding-right: 2rem;
+
+}
+footer i{
+    color:black;
+    font-size:25px
 
 }
 
