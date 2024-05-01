@@ -62,12 +62,26 @@ h2 {
     padding-bottom:5px;
     font-family: "Oswald",sans-serif;
 }
+h3{
+    font-family: "Oswald",sans-serif;
+}
+
  
 .btn{
     background-color: #cc6d2e;
     border: black;
     font-weight: 700;
     color: black;
+}
+
+.bully-pic{
+    max-height: 140px;
+    max-width: 100;
+    border-radius: 25px;
+}
+.about-birmingham{
+    font-family: "Exo",sans-serif;
+
 }
 
 
