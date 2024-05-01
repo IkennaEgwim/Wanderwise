@@ -32,23 +32,7 @@ nav {
 .nav-link {
     color: black
 }
-.fa-facebook{
-color:#4267B2;
-}
-.fa-instagram{
-    color:#833AB4;
 
-}
-.fa-youtube-square{
-    color:#FF0000;
-    
-
-
-}
-.fa-twitter-square{
-color:#1DA1F2;
-
-}
 
 /*placeholder---rmove when start page--*/
 .image {
@@ -62,6 +46,10 @@ h2 {
     padding-bottom:5px;
     font-family: "Oswald",sans-serif;
 }
+h3{
+    font-family: "Oswald",sans-serif;
+}
+
  
 .btn{
     background-color: #cc6d2e;
@@ -69,6 +57,31 @@ h2 {
     font-weight: 700;
     color: black;
 }
+
+.bully-pic{
+    max-height: 140px;
+    max-width: 100;
+    border-radius: 25px;
+}
+.about-birmingham{
+    font-family: "Exo",sans-serif;
+
+}
+.bully-button {
+    margin-bottom:10px;
+}
+
+
+.logo{
+margin-top:200px;
+padding-right:50px;
+height:200px;
+width:400px;
+
+
+    
+}
+
 
 
 /*footer------*/
@@ -86,14 +99,3 @@ footer ul {
 
 }
 
-footer i {
-    color: black;
-    font-size: 20px;
-}
-
-/* ------- Gallery styling ------------------ */
-  .gallery-img {
-    height: 300px; /* Adjust the height as needed */
-    object-fit: cover; /* Ensure the image covers the specified height */
-    margin-bottom: 20px;
-}
