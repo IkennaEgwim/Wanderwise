@@ -32,11 +32,46 @@ nav {
 .nav-link {
     color: black
 }
+.fa-facebook{
+color:#4267B2;
+}
+.fa-instagram{
+    color:#833AB4;
 
+}
+.fa-youtube-square{
+    color:#FF0000;
+    
+
+
+}
+.fa-twitter-square{
+color:#1DA1F2;
+
+}
+
+/*placeholder---rmove when start page--*/
 .image {
     height: 700px;
 }
+/*main-----*/
 
+h2 {
+
+    padding-top:100px;
+    padding-bottom:5px;
+    font-family: "Oswald",sans-serif;
+}
+ 
+.btn{
+    background-color: #cc6d2e;
+    border: black;
+    font-weight: 700;
+    color: black;
+}
+
+
+/*footer------*/
 footer {
     background-color: #cc6d2e;
     width: 100%;
