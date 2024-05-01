@@ -90,3 +90,10 @@ footer i {
     color: black;
     font-size: 20px;
 }
+
+/* ------- Gallery styling ------------------ */
+  .gallery-img {
+    height: 300px; /* Adjust the height as needed */
+    object-fit: cover; /* Ensure the image covers the specified height */
+    margin-bottom: 20px;
+}
