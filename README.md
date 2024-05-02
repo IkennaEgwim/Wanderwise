@@ -1,25 +1,31 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-
 <a name="readme-top"></a>
 
 <!--
+*** Thank you for checking out and/or using this project. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "improvement".
 *** Don't forget to give the project a star!
 -->
 
 <!-- PROJECT LOGO -->
-<div align="center">
-  <a href="https://github.com/IkennaEgwim/Wanderwise/README.md">
-    <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" alt="Project Logo" width="80" height="60"><img src="./assets/icons/logo.svg" alt="Project Logo" width="80" height="60">
+<br />
+<div>
+  <a href="https://codeinstitute.net/?nab=0">
+    <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" align="left" alt="Project Logo" width="80" height="80">
+          <a href="https://Ikenna.Egwim.github.io/Wanderwise/">
+    <img src="./assets/images/wanderwise2.png" align="right" alt="Project Logo" width="120" height="90">
     </div>
   </a>
+  <br>
+  <br>
+  <br>
   <h1 align="center">Wanderwise</h1>
 
   <p align="center">
-    ....**Wanderwise tagline**
+Welcome to Wanderwise, your ultimate travel companion for exploring Birmingham and beyond! Wanderwise is a comprehensive online travel guide designed to provide travelers with an unforgettable experience while visiting Birmingham, offering valuable insights, recommendations, and resources to ensure every trip is memorable and stress-free.
 <br>
 <br>
-    <a href="https://github.com/IkennaEgwim/MealFlow/README.md"><strong>Explore the docs Â»</strong></a>
+    <a href="https://github.com/IkennaEgwim/Wanderwise/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
 
@@ -107,26 +113,35 @@ This section contains summary information about the project, the user expections
 
 <h2 id="ux">User Experience (UX)</h2>
 
-The description of the Project (Wanderwise) will appear here. 
+Introducing Wanderwise: Your Gateway to Birmingham Adventures! Wanderwise is more than just a travel guide—it's your passport to exploring Birmingham and unlocking unforgettable experiences. With Wanderwise by your side, you'll embark on a journey of discovery, uncovering hidden gems, and immersing yourself in the vibrant culture of Birmingham and beyond.
 
 The uniqueness of this project are:
 
-    -   XXXXXXXXXXXXXXXXXXX
-    -   XXXXXXXXXXXXXXX
+-  Visual Exploration: Visualize destinations through high-quality images that showcase the beauty and attractions in Birmingham, inspiring users and igniting their wanderlust.
+-  Seamless Browsing Experience: Enjoy a responsive website layout that is easily navigable on all devices, ensuring a seamless browsing experience whether users are accessing the site from desktops, tablets, or mobile phones.
+-  Personalized Itineraries: Plan custom travel itineraries with customizable options for activities, dining, and accommodations, allowing users to tailor their trips to their preferences and interests for a truly personalized experience.
+-  Family-Friendly Recommendations: Find family-friendly destinations and activities suitable for traveling with children, ensuring that families can plan enjoyable and memorable trips together with ease.
+-  Comprehensive Documentation: Wanderwise provides comprehensive documentation, including the rationale behind the project, key project goals, target audience, design process, and deployment procedure, ensuring transparency and clarity for both users and stakeholders.
 
 You can view the deployed website [here](https://path-to-deployed-site.com)
 
 <h2 id="user-stories">User Stories</h2>
 
-- As a user, I want **8888**
-- As a user, I want **8888**
-- As a user, I want **8888**
-- As a user, I want **8888**
-- As a user, I want **8888**
+
+-  As a user, I want to discover popular travel destinations categorized by type so that I can explore places that match my interests and preferences.
+-  As a user, I want to read detailed pages for each destination, providing comprehensive information on attractions, local cuisines, accommodations, and travel tips, so that I can plan my trip effectively and have a memorable experience.
+-  As a user, I want to view high-quality images of each destination, showcasing its beauty and attractions, so that I can visually explore the places and get inspired to visit.
+-  As a user, I want to access a responsive website layout that is easily navigable on all devices, including desktops, tablets, and mobile phones, so that I can browse travel destinations conveniently from anywhere.
+-  As a user, I want to access user-generated content such as reviews and recommendations for destinations, attractions, and accommodations, so that I can make informed decisions and plan my trip with confidence.
+-  As a user, I want to have access to a community forum or discussion board where I can ask questions, share experiences, and connect with other travelers, so that I can engage with like-minded individuals and seek advice and recommendations.
+-  As a user, I want to plan travel itineraries with customizable options for activities, dining, and accommodations, so that I can tailor my trip to my preferences and interests.
+-  As a user, I want to discover hidden gems and local favorites in each destination, recommended by locals or experienced travelers, so that I can explore unique experiences off the beaten path.
+-  As a user, I want to find family-friendly destinations and activities, suitable for traveling with children, so that I can plan enjoyable trips for my family.
+-  As a user, I want to bookmark favorite destinations and attractions for future reference, so that I can easily access them when planning future trips or sharing recommendations with others.
 
 <h2 id="technology-stack">Technology Stack</h2>
 
-This subsection outlines the technologies, frameworks, libraries, and tools used in the development of this project. It provides insight into the foundational components that power MealFlow. Add-ons and plugins are captured in the acknowledgements subsection.
+This subsection outlines the technologies, frameworks, libraries, and tools used in the development of this project. It provides insight into the foundational components that power Wanderwise. Add-ons and plugins are captured in the acknowledgements subsection.
 
 <h2 id="languages-frameworks-libraries">Languages, Frameworks and Libraries</h2>
 
@@ -158,14 +173,14 @@ This project was implemented using the Agile Manifesto methodology. Below are th
 
 <strong>Four Values of the Agile Manifesto:</strong>
 
-- Vision 1: Customer collaboration over contract negotiation: The Team held 6 sessions via Slack (Huddle) platform, ensuring alignment with customer needs and prioritizing features through user story mapping.
+- Vision 1: Customer collaboration over contract negotiation: The Team held 8 sessions via Slack (Huddle) platform, ensuring alignment with customer needs and prioritizing features through user story mapping.
   <a href="https://github.com/IkennaEgwim/README.md">
   <img src="#" alt="Product Screenshot" width="400" height="300">
   </a>
-  **A screenshot or graphic representation of a Zoom meeting with team members.**
+  **A screenshot or graphic representation of a Slack meeting with team members.**
 
 - Vision 2: Responding to change over following a plan: Throughout the project, the team managed (
-  [![GitHub issues](https://img.shields.io/github/issues-closed/IkennaEgwim/MealFlow?)](https://github.com/IkennaEgwim/Wanderwise/issues) + [![GitHub issues](https://img.shields.io/github/issues/IkennaEgwim/MealFlow?)](https://github.com/IkennaEgwim/MealFlow/issues) ) GitHub issues, adapting to changing requirements and feedback iteratively.
+  [![GitHub issues](https://img.shields.io/github/issues-closed/IkennaEgwim/Wanderwise?)](https://github.com/IkennaEgwim/Wanderwise/issues) + [![GitHub issues](https://img.shields.io/github/issues/IkennaEgwim/Wanderwise?)](https://github.com/IkennaEgwim/Wanderwise/issues) ) GitHub issues, adapting to changing requirements and feedback iteratively.
   **A screenshot of the GitHub project board demonstrates their flexibility.**
   <a href="https://github.com/IkennaEgwim/README.md">
   <img src="#" alt="Product Screenshot" width="400" height="300">
@@ -207,11 +222,11 @@ This project was implemented using the Agile Manifesto methodology. Below are th
 
 <h1 id="project-setup">SECTION 2: PROJECT SETUP</h1>
 
-In this section, a detailed account of all requirements needed for MealFlow to be setup and running. It also includes installation instructions and a link to all necessary documentations for these tools.
+In this section, a detailed account of all requirements needed for Wanderwise to be setup and running. It also includes installation instructions and a link to all necessary documentations for these tools.
 
 <h2 id="prerequisites">Prerequisites</h2>
 
-MealFlow does not rely on any external dependencies or services.
+Wanderwise does not rely on any external dependencies or services.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -464,7 +479,7 @@ reapeat for all user stories
 
 <h3 id="template">Template</h3>
 
-- This template was adopted and adapted from README.md templates published by <a href="https://github.com/scientistigwe/README-Template" alt="Github page of Chibueze C. Igwe" target="_blank">Chibueze C. Igwe</a>, <a href="https://github.com/Iris-Smok/Vannas-Beauty-Salon_PP1" alt="Github page of Iris Smok" target="_blank">Iris Smok</a> and <a href="https://github.com/othneildrew/Best-README-Template" alt="Github page of Othneil Drew" target="_blank">Othneil Drew</a>.
+- This template was adopted and adapted from README.md templates published by <a href="https://github.com/IkennaEgwim/README-Template" alt="Github page of Ikenna Egwim" target="_blank">Ikenna Egwim</a>, <a href="https://github.com/Iris-Smok/Vannas-Beauty-Salon_PP1" alt="Github page of Iris Smok" target="_blank">Iris Smok</a> and <a href="https://github.com/othneildrew/Best-README-Template" alt="Github page of Othneil Drew" target="_blank">Othneil Drew</a>.
 
 <h3 id="content">Content</h3>
 
