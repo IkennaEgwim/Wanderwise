@@ -242,9 +242,8 @@ The key features are:
 
 - <strong>Navigation:</strong> Designed to facilitate users effortlessly access to different sections and pages.
 - <strong>Services:</strong> Provides comprehensive information about the services offered by the project.
-- <strong>Pricing:</strong> Provides corresponding prices on services offered by ["**name-of-project**"], enabling users to make informed decisions about their choices.
 - <strong>Testimonials:</strong> Showcases testimonials and highlights positive experiences from previous clients, fostering trust and credibility among potential customers.
-- <strong>Gallery:</strong> Presents a visually appealing gallery displaying a pictorial representation of ["**name-of-project**"], serving as a source of inspiration for clients.
+- <strong>Gallery:</strong> Presents a visually appealing gallery displaying a pictorial representation of Wanderwise, serving as a source of inspiration for clients.
 - <strong>Contact Form:</strong> Offers a user-friendly contact form that simplifies the process of reaching out to the team. This will empower clients to submit inquiries, book appointments, or provide feedback seamlessly.
 - <strong>Contact Information:</strong> Displays essential contact details of the team prominently on the website, ensuring users can easily reach out to the establishment via phone, email, or physical address.
 - <strong>Social Links:</strong> Includes links to the company's social media profiles, enabling users to stay connected and updated with the latest news, promotions, and announcements.
@@ -265,33 +264,30 @@ The key features are:
 
 - **Header**
 
-  - "**name-of-project**" logo positioned [left|right|center]
+  - "Wanderwise" logo positioned top left
   - Appears on every page
 
 - **Nav bar**
 
-  - Appers on every page
-  - Navigation bar on the [left|right|center]
+  - Appears on every page
+  - Navigation bar on the top right.
 
 - **Menu items**
 
-  - Appers on every page
+  - Appear on every page
   - Directs users to specific page
 
 - **Footer**
 
-  - Includes a [contact information, contact form, newsletter, Resources and social links] (N/B: adjust as appropriate)
+  - Include social links.
   - Appears on every page
 
 - **Home Page**
-  - _Hero image_ - appears at the top-[left|right|center] of the home page, below the header section.
-  - _Testimonials_ - just below the "**name-of-section**" section, responsively arrange to maximize various device screen width and give users a good experience.
-  - _Call to action buttons_ - provides an easy portal to other specific page of "**name-of-project**".
-- **Services** - Services has a dedicated page with a navigation link on both the navbar and one of the call-to-action buttons on the homepage.
-- **Pricing** - Pricing and Plans has a dedicated page with a navigation link on both the navbar and one of the call-to-action buttons on the homepage.
-- **Our Team** - Our Teams has a dedicated page with a navigation link on both the navbar and one of the call-to-action buttons on the homepage.
-- **Gallery** - Gallery has a dedicated page with a navigation link on both the navbar and one of the call-to-action buttons on the homepage.
-- **Contact Us** - This is located at the [left|right|center] of the footer.
+  - _Hero image_ - appears at the top-center of the home page, below the header section.
+  - Our call to action button "lets Go" - provides an easy portal to other specific page of "Wanderwise".
+- Fun Page - has a dedicated page with a navigation link on both the navbar and one of the call-to-action buttons on the homepage.
+-  Gallery has a dedicated page with a navigation link on the navbar.
+  
 
 <h2 id="wireframes">Wireframes</h2>
 
@@ -345,24 +341,23 @@ Given the serene ambiance of the establishment, the website echoes this sentimen
 
 <h3 id="color">Color</h3>
 
-- **Main background color - **#color hex** (color name)** - I chose this color because **\*\***\***\*\***
-- **h1 headings and nav bar - [color]** - reason
-- **h2 headings - [color]** - reason
-- **p - [color]** - reason
-- **footer - [color]** - reason
+- #FFF (White) - We chose this color because the background has many images so we wanted to keep the background from distracting away from the content.
+- headings and Navbar - #cc6d2e- orange-brown and #000000-Black - They compliment the hero image but are at the same time striking and noticeable.
+- **h2 headings -  #000000-Black this was chosen to compliment the colour scheme 
+- **p -  #000000-Black - easy to read and follows the colour scheme of the pages.
+- **footer - #cc6d2e- orange-brown and #000000-Black - again this matches the header and compliments the colour scheme
 
 <h3 id="font">Font</h3>
 
-- main font: Font name
-- Secondary font - Font name
+- main font: sans-serif
+- Secondary font - Oswald and Exo
 
 <h3 id="media">Media</h3>
 
-**Hero image** - short description and reason for selection
+The main image on the homepage (or hero image) is of a young man and lady taking a selfie outside the main Library, it shows that its the town of Birmingham as the Library has a very recognisable exterior,
+and it makes a intial impretion they are tourists or visitors.
 
-**Contact section** - short description and reason for selection
-
-**Services** - short description and reason for selection
+Fun places to visit were chosen as they fit the User story requirements and gave a variety of options for
 
 **Plans and Pricing** - short description and reason for selection
 
